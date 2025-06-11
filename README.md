@@ -18,21 +18,18 @@ Tech Stack
 
 Project Structure
 
-futurecode-backend-assignment/
-│
-├── controllers/
-│ ├── productController.js
-│ └── userController.js
-│
-├── models/
-│ ├── Product.js
-│ └── User.js
-│
-├── routes/
-│ ├── productRoutes.js
-│ └── userRoutes.js
-│
-├── .env
-├── index.js
-├── package.json
+futurecode-backend-assignment
+
+controllers 
+    -productController.js 
+    -userController.js
+models
+    -Product.js
+    -User.js
+routes
+    -productRoutes.js
+    -userRoutes.js
+.env
+index.js
+package.json
 
